@@ -337,8 +337,8 @@ highlight {
     </td>
     <td width=150px> 
       <img class="profile" src="./src/figure/speakers/rtedrake.jpg">
-      <a href="https://locomotion.csail.mit.edu/russt.html">Russ Tedrake</a><br>
       <p align=center>
+      <a href="https://locomotion.csail.mit.edu/russt.html">Russ Tedrake</a><br>
       MIT, TRI<br>
       (tentative)
       </p>
