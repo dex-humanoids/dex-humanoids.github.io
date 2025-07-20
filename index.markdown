@@ -358,6 +358,7 @@ highlight {
       (tentative)
       </p>
     </td>
+  </tr>
 </table>
     </td>
   </tr>
@@ -458,6 +459,7 @@ highlight {
       For any questions, please email <a href="mailto:mingyo@utexas.edu"><highlight>mingyo@utexas.edu</highlight></a>.
     </td>
   </tr>
+</table>
 
 <div style="height: 16px;"></div>
 </div>
